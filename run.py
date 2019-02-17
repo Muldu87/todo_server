@@ -2,7 +2,7 @@ from configobj import ConfigObj
 import os
 import socket
 
-SERVICE_DIR = 'todo/services/'
+SERVICE_DIR = 'services/'
 
 
 def checkport(host,port):
